@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunita Adhikari</h1>
-<h3 align="center">Pursuing my Bachelor's degree in Software Engineering at Pokhara University, Nepal. at Pokhara University, Nepal.</h3>
+<h3 align="center">Pursuing my Bachelor's degree in Software Engineering at Pokhara University, Nepal.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunitaadhikari" alt="sunitaadhikari" /></a> </p>
 
